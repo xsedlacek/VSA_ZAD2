@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><evaluation>
+  <exam>B-VSA 21/22 Semestrálny projekt 2</exam>
+  <student>
+    <group>C</group>
+    <aisId>null</aisId>
+    <name>xsedlacek</name>
+    <email>null</email>
+  </student>
+  <github>xsedlacek</github>
+  <testsRuns>
+    <required>
+      <testsRun>
+        <totalRun>148</totalRun>
+        <success>76</success>
+        <failure>72</failure>
+        <skip>0</skip>
+        <points>11</points>
+      </testsRun>
+    </required>
+    <bonus>
+      <testsRun>
+        <totalRun>51</totalRun>
+        <success>17</success>
+        <failure>34</failure>
+        <skip>0</skip>
+        <points>2</points>
+      </testsRun>
+    </bonus>
+  </testsRuns>
+  <totalPoints>13</totalPoints>
+  <notes/>
+  <testDuration>PT2M11.991S</testDuration>
+</evaluation>

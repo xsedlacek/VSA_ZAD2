@@ -1,0 +1,11 @@
+jún 16, 2022 3:23:47 PM sk.stuba.fei.uim.vsa.pr2.Project2 startServer
+INFO: Starting Grizzly2 HTTP server...
+jún 16, 2022 3:23:47 PM sk.stuba.fei.uim.vsa.pr2.Project2 startServer
+INFO: Server listening on http://localhost/:8080
+jún 16, 2022 3:23:47 PM org.glassfish.jersey.server.wadl.WadlFeature configure
+WARNING: JAXBContext implementation could not be found. WADL feature is disabled.
+jún 16, 2022 3:23:48 PM org.glassfish.grizzly.http.server.NetworkListener start
+INFO: Started listener bound to [localhost:8080]
+jún 16, 2022 3:23:48 PM org.glassfish.grizzly.http.server.HttpServer start
+INFO: [HttpServer] Started.
+Thu Jun 16 15:23:50 CEST 2022 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
